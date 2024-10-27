@@ -27,5 +27,3 @@ GitHub Profiles es una herramienta que permite a los usuarios buscar perfiles de
 - GitHub API
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/VixoPlank/github-profiles/main/public/GitHubProfile.png)
-
