@@ -25,5 +25,3 @@ GitHub Profiles es una herramienta que permite a los usuarios buscar perfiles de
 - Tailwind CSS
 - AtroposJS
 - GitHub API
-## Screenshots
-
